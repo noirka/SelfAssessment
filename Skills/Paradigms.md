@@ -3,39 +3,60 @@
 - Theory
   - Procedural programming
   - Imperative programming
-  - Structured programming
+  - Structured programming h
   - Non-structured programming
-  - Functional programming
+  - Functional programming h
   - Prototype-based programming
-  - Object-oriented programming
-  - Generic programming
+  - Object-oriented programming k
+  - Object-based programming
+  - Generic programming h
+  - Concurrent computing
   - Asynchronous programming
-  - Parallel programming
+  - Parallel programming h
+  - Reactive programming
+  - Functional-reactive (FRP)
+  - Automata-based programming
   - Domain-specific languages
-  - Actor model
-  - Black box
+  - Multi-paradigm programming
+  - Metaprogramming
+  - Actor model k
+  - Lambda calculus
+  - Black box k
+  - Information hiding
+  - Aspect-oriented programming
+  - Anemic domain model
+  - Class composition h
 - OOP basics
-  - Constructor
-  - Operator `new`
-  - Static method
-  - Method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Parent class
-  - Abstract class
+  - Constructor h
+  - Operator `new` h
+  - Static method u
+  - Method u
+  - Async method
+  - Getters, Setters h
+  - Public fields u
+  - Private fields u
+  - Field declarations
+  - Inheritance
+  - Parent class k
+  - Polymorphism
+  - Abstract class u
   - Interface
   - Encapsulation
-  - Hidden class
-  - Object form
-  - Reflection
+  - Hidden class h
+  - Object form h
+  - Instance
+  - Introspection
+  - Reflection h
+  - The diamond problem
 - GRASP
   - Information expert
-  - Creator
-  - Controller
+  - Creator h
+  - Controller h
   - Indirection
   - Low coupling
   - High cohesion
+  - Protected variations
+  - Pure fabrication
 - SOLID
   - Single-responsibility principle (SRP)
   - Open–closed principle (OCP)
@@ -46,16 +67,25 @@
   - Singleton
   - Factory Method
   - Abstract Factory
-  - Adapter
+  - Adapter h
   - Observer
-  - Strategy
+  - Strategy h
   - Facade
-  - Proxy
+  - Proxy h
   - Chain of Responsibility
   - Command
-  - Iterator
-  - State
+  - Iterator h
+  - State h
+  - Bridge
+  - Builder
   - Prototype
   - Composite
   - Decorator
+  - Flyweight
+  - Mediator
+  - Memento
+  - Template Method
   - Visitor
+  - Reactor h
+  - Active object
+  - Delegation
