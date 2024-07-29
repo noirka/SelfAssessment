@@ -1,30 +1,100 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components
-  - Directories
-  - GRASP
-  - SOLID
-  - GoF patterns
-  - CQS
-  - Leaking abstractions
-  - Platform-agnostic
-  - Cohesion
-  - Coupling
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
+  - Modularity h
+  - Components k 
+  - Directories u
+  - GRASP k
+  - SOLID k
+  - GoF patterns h
+  - CQS h
+  - Leaking abstractions h
+  - Multiparadigm code h
+  - Contract programming
+  - Platform-agnostic k
+  - Transport-agnostic 
+  - Framework-agnostic 
+  - Code coverage
+  - Cohesion k
+  - Coupling k
+  - Cyclomatic complexity
+  - Reliability k
+  - Quality k
+  - Availability k
+  - Flexibility k
+  - Law of Demeter (LoD)
 - Application architecture
-  - Separation of concerns (SoC)
-  - UML
-  - Work breakdown structure
+  - Isolation between layer
+  - Domain-specific language (DSL)
+  - System vs applied code
+  - Multilayer approach
+  - Hexagonal architecture
+  - Separation of concerns (SoC) h
+  - Metaprogramming
+  - Inversion of control (IoC)
+  - Dependency injection (DI)
+  - Clean architecture
+  - Domain-driven design (DDD)
+  - Pub/sub
+  - Message brocker
+  - Agent
+  - Service locator
+  - Message Queue (MQ)
+  - CQRS
+  - Event sourcing
+  - E-R data modeling
+  - Entity-relationship diagram
+  - IDEF1X
+  - UML u
+  - Work breakdown structure h
+  - Budget estimation
+  - Distributed systems
+  - High-intensive computing
+  - Load balancing
+  - Gateways
+  - On-premises
+  - IaaS h
+  - PaaS h
+  - SaaS h
+  - FaaS clouds
+  - Serverless
+  - Vendor lock-in
+  - Bus factor
 - Solution architecture
-  - A software requirements specification (SRS)
-  - Solution visions
-  - Solution capabilities
-  - Risk assessment
+  - A software requirements specification (SRS) h
+  - Solution visions u
+  - Solution capabilities k
+  - System design h
+  - Process modelling h
+  - Data modelling h
+  - Solution components h
+  - Risk assessment u
+  - Non Functional Requirements (NFR)
+  - Clouds
+  - BPMN
+  - Low-code h
+  - No-code
+  - Metric
+  - Metric abuse
+  - ACID h
+  - CAP theorem
   - Single source of truth (SSOT)
 - Enterprise architecture
-  - Project scope
+  - Understanding business needs h
+  - Enterprise strategy h
+  - Integration with subsystems
+  - Enterprise vision h
+  - Enterprise capabilities h
+  - Project scope u
+  - Enterprise service bus
+  - Service-oriented architecture
+  - Microservices
+  - Process choreography
+  - Service orchestration
+  - Data warehouse
+  - Business Intelligence
+  - OLAP
+  - OLTP
+  - Conways Law
+  - Quality assurance h
+  - Engineering Hygiene
